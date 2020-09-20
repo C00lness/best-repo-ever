@@ -1,2 +1,2 @@
 # best-repo-ever
-# TestString
+# Dim String as new string ("")
